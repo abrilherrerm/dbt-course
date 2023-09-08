@@ -2,6 +2,7 @@ version: 2
 
 sources:
   - name: jaffle_shop
+    description: raw data from platform
     database: raw
     schema: jaffle_shop
     tables:
